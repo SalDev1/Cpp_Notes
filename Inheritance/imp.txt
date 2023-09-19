@@ -1,0 +1,12 @@
+
+// For linking your header files.
+// Use this command line :- g++ main.cpp calculator.cpp
+
+// Use this command (Single / Multiple Files as well)
+//  g++ -o main calculator.cpp main.cpp
+// Or
+// g++ -std=c++17 main.cpp .\calculator.cpp
+// Or
+// g++ -o main person.cpp player.cpp nurse.cpp main_1.cpp
+
+This above commands will help you to link all the files to the main program.

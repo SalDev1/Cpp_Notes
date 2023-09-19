@@ -1,0 +1,5 @@
+                        Animal(breathes)
+      Feline(runs)                             Bird(flies)
+Dog (barks) Cat (miaw)                     Pigeon(coos) Crow(caws)
+
+Animal inheritance Hierarchy.

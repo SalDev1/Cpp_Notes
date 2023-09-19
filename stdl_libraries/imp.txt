@@ -1,0 +1,20 @@
+The Standard Template Library(STL) is a set of C++ template classes to provide common
+programming data structures and functions such as lists , stacks , arrays, etc. 
+It is a Library of container classes , algorithms and iterators . 
+
+It is a generalized library and so, it's components are parameterized.
+
+A working knowledge of template class is a prerequisite for working with STL.
+It has four components:-
+
+STDL:- Helps you to avoid reinventing the wheel.
+Algorithms :- Sorting , Searching , uses template functions.
+Containers :- It is an object that stores data , uses template classes. 
+(Character or Integer Container ,etc)
+Functions
+Iterators : = It is an object that points to an element in a Container , Handles just like pointers.
+Connects Algo with containers. (Vectors)
+
+Mainly we are using stdl libraries to 
+**Reuse :  Well Tested Components****.
+**Time Savings**

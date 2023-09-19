@@ -1,0 +1,37 @@
+STDL is made up of three elements:- Containers , Iterators and Algorithms and Functions.
+
+Containers:- (Is of three types)
+1] Seqeuence Containers. ==>  Stores in linear fashion. 
+Eg:- vector , list , dequeue.
+
+2] Associative Containers.  ==> Provides direct access or increasing the efficiency of searching , deleting or inserting ,etc.
+For faster search, faster deletion , faster insertion.
+Eg:- Map , Multimap , set , multiset.
+
+3] Derived Containers / Container Adaptors ==> real world modelling.
+Eg:- stack , priority_queue , queue.
+
+According to GFG.
+1] Sequence Containers.
+2] Container Adaptors. 
+3] Associative Containers.
+4] Unordered Associative Containers.
+
+1] Sequence Containers:-
+   
+a] Vector ==> If you want to access third or fifth element using the vector library. 
+Random Access(Fast)
+Insertion/Deletion in middle(Slow)
+Insertion/Deletion at the end(Fast).
+
+b] List ==> 
+Random Access(Slow).
+Insertion/Deletion in middle(Fast).
+Insertion/Deletion at the end/begin(Fast).
+
+2] Associative Containers :- All operations fast , except Random Access.
+If you want to store data in this , like contact numbers , names , etc. Use this.
+
+
+3] Derived Containers:- Depends ==> Analysis done in Data Structure.
+
